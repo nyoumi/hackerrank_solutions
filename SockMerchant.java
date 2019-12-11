@@ -5,7 +5,7 @@ package hackerrank;
  *
  * @author Nyoumi Paul
  * algorithme du marchand de chaussettes qui permet de trouver des paires de chaussetes dans un sac
- * retourne le nombre de paires 
+ * retourne le nombre de paires  
  */
 import java.io.*;
 import java.math.*;
