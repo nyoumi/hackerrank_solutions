@@ -1,13 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package hackerrank;
 
 /**
  *
- * @author Carlos TCHIOZEM
+ * @author Nyoumi Paul
+ * algorithme du marchand de chaussettes qui permet de trouver des paires de chaussetes dans un sac
+ * retourne le nombre de paires 
  */
 import java.io.*;
 import java.math.*;
@@ -16,6 +14,7 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
+
 
 public class SockMerchant {
 
