@@ -7,7 +7,7 @@ package hackerrank;
 
 /**
  *
- * @author Carlos TCHIOZEM
+ * @author Paul Aimé
  */
 import java.io.*;
 import java.math.*;
